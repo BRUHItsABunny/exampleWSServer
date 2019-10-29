@@ -1,7 +1,7 @@
 package server
 
 import (
-	"examplesocket/database"
+	"exampleWSServer/database"
 	"github.com/BRUHItsABunny/bunnlog"
 	"github.com/gorilla/websocket"
 	"net/http"
